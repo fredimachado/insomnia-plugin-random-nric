@@ -1,0 +1,27 @@
+{
+  "name": "insomnia-plugin-random-nric",
+  "version": "0.0.1",
+  "author": "Fredi Machado (https://github.com/fredimachado)",
+  "homepage": "https://github.com/fredimachado/insomnia-plugin-random-nric",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredimachado/insomnia-plugin-random-nric.git"
+  },
+  "keywords": [
+    "insomnia",
+    "insomnia-plugin",
+    "random",
+    "nric",
+    "random-nric",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/fredimachado/insomnia-plugin-random-nric/issues"
+  },
+  "insomnia": {
+    "name": "random-nric",
+    "description": "Insomnia plugin to generate random S prefix NRIC (National Registration Identity Card). Identity document used in Singapore."
+  },
+  "license": "MIT"
+}
